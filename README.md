@@ -12,3 +12,6 @@ Display the yield.
 Display all the jobs available
 
 Display all property names, current tenants first and last names and rental payments per week/ fortnight/month for the properties in question a). 
+
+
+SQLQuery_task.sql contains all queries
